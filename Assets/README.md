@@ -2,7 +2,7 @@
 This is the home for Horiseon Social Media Solutions
 
 ## Purpose
-This website showcases services provided by Horiseon Social Solution Services, Inc. for  interetested companies and individuals
+This website showcases services provided by Horiseon Social Solution Services, Inc for interetested companies and individuals
 
 ## Built With
 * HTML
