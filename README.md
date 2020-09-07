@@ -9,7 +9,7 @@ This website showcases services provided by Horiseon Social Solution Services, I
 * CSS
 
 ## Website
-https://SinclarEon.github.io/Horiseon/
+https://esinclair81.github.io/Horiseon2020Final/
 
 ## Contribution
 Made with ❤️ by Eon Sinclair
