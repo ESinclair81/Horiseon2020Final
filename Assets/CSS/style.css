@@ -7,38 +7,6 @@
     color: white;
 }
 
-
-/* This is the hero */
-.hero-img {
-    background-image: url("/Assets/Images/digital-marketing-meeting.jpg"); 
-    background-size: cover;
-    background-position: center;
-}
-
-.hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-
-}
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-/* This is hero end */
-
 /* Body Styles Start */
 body {
     background-color: #d9dcd6;
@@ -83,6 +51,36 @@ p {
     font-size: 16px;
 }
 
+/* This is the hero */
+.hero-img {
+    background-image: url("/Assets/Images/digital-marketing-meeting.jpg"); 
+    background-size: cover;
+    background-position: center;
+}
+
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+/* This is hero end */
 
 /* This is Benefits styles start */
 .benefits {
